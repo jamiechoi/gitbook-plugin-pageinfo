@@ -12,8 +12,7 @@ Add `pageinfo` to your Gitbook plugins list:
 
 ```js
 {
-  "plugins": ["betterpagetitles"]
-  }
+  "plugins": ["pageinfo"]
 }
 
 ```
