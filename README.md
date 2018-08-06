@@ -1,5 +1,7 @@
 # gitbook-plugin-pageinfo
 
+[![npm version](https://badge.fury.io/js/gitbook-plugin-pageinfo.svg)](https://badge.fury.io/js/gitbook-plugin-pageinfo)
+
 This is a Gitbook plugin to show the title and description on every page.
 
 ## Demo
