@@ -4,7 +4,7 @@ This is a Gitbook plugin to show the title and description on every page.
 
 ## Demo
 
-![Image Demo](demo.png)
+![Image Demo](/demo.png)
 
 ## How to install
 
