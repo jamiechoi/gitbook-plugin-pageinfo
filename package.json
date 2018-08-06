@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-pageinfo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A plugin to show title and description on each page for Gitbook.",
   "main": "index.js",
   "scripts": {
